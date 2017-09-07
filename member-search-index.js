@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Hello","l":"Hello()"},{"p":"<Unnamed>","c":"Hello","l":"paint(Graphics)","url":"paint-java.awt.Graphics-"}]
